@@ -1,0 +1,25 @@
+.services-container {
+  text-align: center;
+  line-height: 1;
+  padding-bottom: 180px;
+}
+
+#services-header {
+  padding-bottom: 60px;
+  font-size: 3rem;
+}
+
+.services-container h1 {
+  font-family: 'Operetta-12';
+  font-size: 4rem;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+.services-container h3 {
+  font-family: 'Operetta-12';
+  font-size: 2.4rem;
+  font-weight: 100;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+}

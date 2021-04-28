@@ -1,0 +1,52 @@
+span {
+  background-color: transparent;
+}
+
+.clients-container {
+  font-family: 'operetta-12';
+  color: #000;
+  text-transform: uppercase;
+}
+
+.clients-container h3 {
+  padding-bottom: 60px;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 100;
+}
+
+.previous-clients {
+  font-size: 5.9rem;
+  font-weight: 200;
+  font-style: normal;
+  line-height: 0.6;
+}
+
+.previous-clients:hover {
+  color: rgb(233, 111, 37);
+}
+
+#vogue-image {
+  display: none;
+  width: 25%;
+}
+
+#vogue:hover + img {
+  display: flex;
+  position: fixed;
+  top: 25%;
+  left: 35%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#hillary:hover + img {
+  display: flex;
+  position: fixed;
+  top: 25%;
+  left: 35%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

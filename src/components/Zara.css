@@ -1,0 +1,21 @@
+.zara-wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  text-align: center;
+  font-family: 'degular-display', sans-serif;
+  font-size: 80px;
+  font-weight: 900;
+  line-height: 100%;
+  letter-spacing: 13px;
+}
+
+.name:hover {
+  color: rgb(233, 111, 37);
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+}
